@@ -6,14 +6,14 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "NAYAN-BOT",
+  "BOTNAME": "ASIF-BOT",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "61591075138065",
+    "61591075138065"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "61591075138065",
     ""
   ],
   "OWNER": ["100000959749712"], 
